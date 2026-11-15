@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://t.me/Osadnick"><img src="https://img.shields.io/badge/Telegram-@Osadnick-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mikheil-osadchuck"><img src="https://img.shields.io/badge/LinkedIn-Mikheil_Osadchuck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://apps.apple.com/ru/app/rootroot/id6760928180"><img src="https://img.shields.io/badge/App_Store-RootRoot-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 </p>
 
